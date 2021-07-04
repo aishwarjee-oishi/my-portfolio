@@ -6,15 +6,17 @@ h1{
     font-size: 50px;
 }
 .changeColor{
-    color: purple;
+    color: rgb(173, 16, 173);
 
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
     padding-left: 5%;
+    padding-right: 5%;
 }
 .link-button{
     text-decoration: none;
@@ -27,4 +29,10 @@ section{
 .top-banner{
     background-image: url(images/bg1.jpg);
     
+}
+.color-fun{
+    color: rgb(83, 45, 153);
+}
+.dream-big{
+    background-image: url(images/bg3.jpg);
 }
